@@ -1,4 +1,4 @@
-package br.edu.lp2;
+package br.edu.lp2.pedidos;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
