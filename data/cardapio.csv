@@ -1,0 +1,5 @@
+PRATO;P01;Feijoada Completa;39.9;15;Feijão, carne suína, arroz, couve, farofa;35
+PRATO;P02;Lasanha à Bolonhesa;32.5;10;Massa, molho bolonhesa, queijo;25
+BEBIDA;B01;Coca-Cola 350ml;6.0;40;350;false
+BEBIDA;B02;Cerveja Long Neck;9.5;30;355;true
+SOBREMESA;S01;Pudim de Leite;12.0;12;true;1
